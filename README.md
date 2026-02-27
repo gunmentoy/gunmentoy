@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hey, I'm Tom 🤓
 
-<!--
-**gunmentoy/gunmentoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Year 2 BCIT Business Information Technology Management student based in Vancouver, BC.  
+Building toward a career in data and business analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With 💻
+
+**Languages & Tools**  
+Python (Pandas, NumPy, Matplotlib, Seaborn) · SQL · Power BI · DAX · Excel (Power Query, Power Pivot) 
+
+**Dev Environment**  
+VS Code · GitHub · Jupyter Notebook
+
+---
+
+## What I'm About 🙂‍↕️
+
+Turning messy data into something that actually makes sense.  
+Occasionally overcomplicating things for fun!
+
+---
+
+Feel free to snoop around the repos. They do a better job explaining things than I do :) 
