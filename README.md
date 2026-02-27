@@ -15,7 +15,7 @@ VS Code · GitHub · Jupyter Notebook
 
 ---
 
-## What I'm About 🙂‍↕️
+## What I'm About 🤳
 
 Turning messy data into something that actually makes sense.  
 Occasionally overcomplicating things for fun!
